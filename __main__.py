@@ -1,3 +1,5 @@
+#!./venv/bin/python
+
 import logging
 from config import LOGLEVEL
 from server import main
